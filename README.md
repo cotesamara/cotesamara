@@ -2,6 +2,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=1500&pause=999999&color=F7F7F7&vCenter=true&width=215&height=190&lines=Hey+there!" align="top" alt="Hey there!" /><img src="./duck2.gif" width="200" align="top" alt="Waving duck" />
 </p>
 
+I'm **Samara**, an aspiring software developer based in the **Greater Toronto Area, Canada**. 
+I love building projects that make life easier for myself and others.
+I enjoy getting creative with UI/UX and using my own hand-drawn designs.
+Right now, my main stack is **React**, **JavaScript**, and **Tailwind CSS**.
+Lately, I've been diving into **Machine Learning** and I'm excited to build more projects powered by it.
+
+**Current Stack & Interests:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 <!--
 **cotesamara/cotesamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
