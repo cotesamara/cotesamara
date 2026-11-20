@@ -1,4 +1,7 @@
-<h1>Hey there! <img src="./duck2.gif" width="150" align="absmiddle" alt="Waving duck" /></h1>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=1500&pause=999999&color=F7F7F7&vCenter=true&width=240&height=60&lines=Hey+there!" align="absmiddle" alt="Hey there!" />
+  <img src="./duck2.gif" width="200" align="absmiddle" alt="Waving duck" />
+</p>
 
 <!--
 **cotesamara/cotesamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
