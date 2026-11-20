@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=1500&pause=999999&color=F7F7F7&vCenter=true&width=215&height=190&lines=Hey+there!" align="top" alt="Hey there!" /><img src="./duck2.gif" width="200" align="top" alt="Waving duck" />
 </p>
 
-I'm **Samara**, an aspiring software developer based in the **Greater Toronto Area, Canada**. 
+I'm **Samara** but like to go by Sammy, an aspiring software developer based in the **Greater Toronto Area, Canada**. 
 I love building projects that make life easier for myself and others.
 I enjoy getting creative with UI/UX and using my own hand-drawn designs.
 Right now, my main stack is **React**, **JavaScript**, and **Tailwind CSS**.
