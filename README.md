@@ -1,5 +1,5 @@
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=1500&pause=999999&color=F7F7F7&vCenter=true&width=215&height=200&lines=Hey+there!" align="top" alt="Hey there!" /><img src="./duck2.gif" width="200" align="top" alt="Waving duck" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=1500&pause=999999&color=F7F7F7&vCenter=true&width=215&height=190&lines=Hey+there!" align="top" alt="Hey there!" /><img src="./duck2.gif" width="200" align="top" alt="Waving duck" />
 </p>
 
 <!--
