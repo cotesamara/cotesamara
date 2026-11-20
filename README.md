@@ -1,4 +1,4 @@
-<h1>Hey there! <img src="./duck2.gif" width="40" alt="Waving duck" /></h1>
+<h1>Hey there! <img src="./duck2.gif" width="200" alt="Waving duck" /></h1>
 
 <!--
 **cotesamara/cotesamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
