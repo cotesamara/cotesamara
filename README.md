@@ -1,9 +1,7 @@
-<table>
-  <tr>
-    <td valign="middle"><h1>Hey there!</h1></td>
-    <td><img src="./duck2.gif" width="200" alt="Waving duck" /></td>
-  </tr>
-</table>
+<p>
+  <img src="./duck2.gif" width="150" align="absmiddle" alt="Waving duck" />
+  <b>Hey there!</b>
+</p>
 
 <!--
 **cotesamara/cotesamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
