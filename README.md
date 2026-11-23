@@ -3,7 +3,7 @@
 </p>
 
 I'm **Samara** but like to go by Sammy, an aspiring software developer based in the **Greater Toronto Area, Canada**.
-I'm currently studying Computer Science at Wilfrid Laurier University.
+I'm currently studying **Computer Science at Wilfrid Laurier University**.
 I love building projects that make life easier for myself and others.
 I enjoy getting creative with UI/UX and using my own hand-drawn designs.
 Right now, my main stack is **React**, **JavaScript**, and **Tailwind CSS**.
